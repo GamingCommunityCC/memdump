@@ -150,7 +150,7 @@ def dump_strings(dump_file, pid):
 def main_menu():
     """Main menu for the tool."""
     while True:
-        print(f"\n{Fore.BLUE}Memory Dump Tool - Gaming Comunity")
+        print(f"\n{Fore.BLUE}Memory Dump Tool - Gaming Community")
         print(f"{Fore.CYAN}1. List Python Processes")
         print(f"{Fore.CYAN}2. Dump Process Memory")
         print(f"{Fore.CYAN}3. Extract Strings from Dump")
